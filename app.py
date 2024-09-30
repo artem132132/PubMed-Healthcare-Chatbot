@@ -12,6 +12,7 @@ import time
 
 load_dotenv()
 
+
 os.environ['HUGGINGFACE_API_KEY'] = os.getenv('HUGGINGFACE_API_KEY')
 
 
